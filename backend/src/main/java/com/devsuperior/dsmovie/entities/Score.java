@@ -20,7 +20,7 @@ public class Score implements Serializable {
 	}
 	
 	public void setMovie(Movie movie) {
-		this.setMovie(movie);
+		id.setMovie(movie);
 	}
 	
 	public void setUser(User user) {
